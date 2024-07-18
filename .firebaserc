@@ -1,5 +1,9 @@
 {
   "projects": {
-    "default": "lizzard-clicker"
-  }
+    "default": "habib-clicker",
+    "habib": "habib-clicker"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
 }
